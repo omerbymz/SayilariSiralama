@@ -1,2 +1,1 @@
-"# SayilariSiralama" 
-"# SayilariSiralama" 
+Girilen Sayıları Büyükten Küçüğe Sıralama
